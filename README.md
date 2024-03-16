@@ -21,13 +21,13 @@ Usage
 
 bash
 
-git clone https://github.com/your-username/spelling-bee-game.git
+git clone https://github.com/jonesrc1/spelling-bee-game.git
 
     Navigate to the project directory:
 
 bash
 
-cd spelling-game
+cd spelling-bee-game
 
     Place your cleaned dictionary file (cleaned_dictionary.txt) in the project directory.
 
@@ -35,7 +35,7 @@ cd spelling-game
 
 bash
 
-python spelling_game.py
+python spelling_bee_game.py
 
     Follow the instructions provided in the game. Listen to the word's definition and attempt to spell it correctly when prompted.
 
@@ -52,7 +52,3 @@ Contributors
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Replace [Your Name](https://github.com/your-username) with your actual name and GitHub profile link.
-
-Make sure to include any additional instructions or information specific to your implementation of the game.
